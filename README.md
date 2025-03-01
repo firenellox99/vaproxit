@@ -58,6 +58,8 @@ L'addon sarà disponibile all'indirizzo http://localhost:10000.
 
 Questo addon è configurato per funzionare su [Render](https://render.com/):
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ciccioxm3/vaproxit)
+
 1. Crea un nuovo account su Render o accedi
 2. Vai su "New" > "Web Service"
 3. Collega il tuo repository GitHub
