@@ -9,4 +9,5 @@ services:
         value: 10000
     scaling:
       minInstances: 1
-      maxInstances: 1
+      maxInstances: 3  # Adjusted maxInstances to be greater than minInstances
+      targetCPUPercent: 70  # Example value, adjust as needed
